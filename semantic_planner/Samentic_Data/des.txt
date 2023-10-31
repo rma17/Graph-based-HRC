@@ -1,0 +1,558 @@
+Gate  Two  Three 
+Ball  Four 
+Globe One 
+Gate  Six 
+Ball  Four  Five 
+Globe Finished
+Gate  Six 
+Ball  Finished
+Globe Finished
+Gate  Two  Three 
+Ball  Finished
+Globe Finished
+Gate  Two  Three  Six 
+Ball  Four 
+Globe One 
+Gate  Two  Three  Six 
+Ball  Five 
+Globe One 
+Gate  Two  Three  Six 
+Ball  Four 
+Globe Finished
+Gate  Two  Three 
+Ball  Finished
+Globe One 
+Gate  Six 
+Ball  Four 
+Globe Finished
+Gate  Two  Six 
+Ball  Four 
+Globe Finished
+Gate  Finished
+Ball  Four 
+Globe One 
+Gate  Two 
+Ball  Finished
+Globe Finished
+Gate  Two  Three 
+Ball  Four  Five 
+Globe One 
+Gate  Two  Six 
+Ball  Four  Five 
+Globe One 
+Gate  Three 
+Ball  Five 
+Globe One 
+Gate  Two  Three 
+Ball  Four  Five 
+Globe Finished
+Gate  Two  Six 
+Ball  Five 
+Globe One 
+Gate  Two 
+Ball  Four 
+Globe Finished
+Gate  Three  Six 
+Ball  Five 
+Globe Finished
+Gate  Three 
+Ball  Five 
+Globe Finished
+Gate  Three  Six 
+Ball  Finished
+Globe One 
+Gate  Three  Six 
+Ball  Five 
+Globe One 
+Gate  Three 
+Ball  Four  Five 
+Globe One 
+Gate  Three 
+Ball  Finished
+Globe One 
+Gate  Three  Six 
+Ball  Four 
+Globe One 
+Gate  Three  Six 
+Ball  Four  Five 
+Globe One 
+Gate  Two  Three 
+Ball  Five 
+Globe Finished
+Gate  Three  Six 
+Ball  Four  Five 
+Globe Finished
+Gate  Two  Six 
+Ball  Five 
+Globe Finished
+Gate  Two 
+Ball  Five 
+Globe One 
+Gate  Finished
+Ball  Finished
+Globe One 
+Gate  Two  Three  Six 
+Ball  Finished
+Globe Finished
+Gate  Six 
+Ball  Five 
+Globe Finished
+Gate  Three 
+Ball  Finished
+Globe Finished
+Gate  Three 
+Ball  Four 
+Globe Finished
+Gate  Two 
+Ball  Four  Five 
+Globe Finished
+Gate  Three  Six 
+Ball  Finished
+Globe Finished
+Gate  Two  Three 
+Ball  Four 
+Globe Finished
+Gate  Three 
+Ball  Four  Five 
+Globe Finished
+Gate  Two 
+Ball  Five 
+Globe Finished
+Gate  Two  Three  Six 
+Ball  Five 
+Globe Finished
+Gate  Two 
+Ball  Finished
+Globe One 
+Gate  Two 
+Ball  Four  Five 
+Globe One 
+Gate  Finished
+Ball  Four  Five 
+Globe Finished
+Gate  Two  Three 
+Ball  Five 
+Globe One 
+Gate  Finished
+Ball  Four 
+Globe Finished
+Gate  Six 
+Ball  Five 
+Globe One 
+Gate  Two  Three  Six 
+Ball  Four  Five 
+Globe Finished
+Gate  Finished
+Ball  Five 
+Globe One 
+Gate  Two  Three  Six 
+Ball  Finished
+Globe One 
+Gate  Six 
+Ball  Four  Five 
+Globe One 
+Gate  Three  Six 
+Ball  Four 
+Globe Finished
+Gate  Two 
+Ball  Four 
+Globe One 
+Gate  Two  Six 
+Ball  Finished
+Globe One 
+Gate  Finished
+Ball  Five 
+Globe Finished
+Gate  Six 
+Ball  Four 
+Globe One 
+Gate  Finished
+Ball  Four  Five 
+Globe One 
+Gate  Two  Six 
+Ball  Finished
+Globe Finished
+Gate  Two  Six 
+Ball  Four  Five 
+Globe Finished
+Gate  Two  Six 
+Ball  Four 
+Globe One 
+Gate  Three 
+Ball  Four 
+Globe One 
+Gate  Six 
+Ball  Finished
+Globe One 
+Gate  Five 
+Ball  One  Two 
+Globe Six 
+Gate  Four 
+Ball  One 
+Globe Finished
+Gate  Three  Four 
+Ball  Finished
+Globe Six 
+Gate  Three  Four  Five 
+Ball  Finished
+Globe Six 
+Gate  Three  Five 
+Ball  One  Two 
+Globe Six 
+Gate  Three  Four 
+Ball  One  Two 
+Globe Six 
+Gate  Finished
+Ball  One  Two 
+Globe Finished
+Gate  Five 
+Ball  One 
+Globe Six 
+Gate  Three 
+Ball  Finished
+Globe Six 
+Gate  Three  Four 
+Ball  One  Two 
+Globe Finished
+Gate  Four  Five 
+Ball  Two 
+Globe Six 
+Gate  Three  Four  Five 
+Ball  Two 
+Globe Finished
+Gate  Finished
+Ball  Two 
+Globe Finished
+Gate  Three  Four 
+Ball  Two 
+Globe Six 
+Gate  Three  Five 
+Ball  Two 
+Globe Finished
+Gate  Finished
+Ball  Two 
+Globe Six 
+Gate  Three  Five 
+Ball  One 
+Globe Finished
+Gate  Four  Five 
+Ball  Finished
+Globe Finished
+Gate  Five 
+Ball  Finished
+Globe Six 
+Gate  Three  Five 
+Ball  Two 
+Globe Six 
+Gate  Four  Five 
+Ball  One  Two 
+Globe Six 
+Gate  Three  Four  Five 
+Ball  One 
+Globe Finished
+Gate  Three 
+Ball  Finished
+Globe Finished
+Gate  Finished
+Ball  Finished
+Globe Six 
+Gate  Four  Five 
+Ball  Two 
+Globe Finished
+Gate  Four  Five 
+Ball  One 
+Globe Finished
+Gate  Four  Five 
+Ball  Finished
+Globe Six 
+Gate  Finished
+Ball  One 
+Globe Finished
+Gate  Four 
+Ball  One  Two 
+Globe Finished
+Gate  Three  Four 
+Ball  Finished
+Globe Finished
+Gate  Five 
+Ball  Two 
+Globe Six 
+Gate  Three  Four  Five 
+Ball  One  Two 
+Globe Finished
+Gate  Four 
+Ball  Finished
+Globe Finished
+Gate  Three 
+Ball  One 
+Globe Finished
+Gate  Finished
+Ball  One  Two 
+Globe Six 
+Gate  Three  Four  Five 
+Ball  Two 
+Globe Six 
+Gate  Three  Five 
+Ball  One 
+Globe Six 
+Gate  Four 
+Ball  One  Two 
+Globe Six 
+Gate  Four 
+Ball  Finished
+Globe Six 
+Gate  Five 
+Ball  Two 
+Globe Finished
+Gate  Three  Four 
+Ball  One 
+Globe Finished
+Gate  Three  Four  Five 
+Ball  One 
+Globe Six 
+Gate  Three  Four 
+Ball  Two 
+Globe Finished
+Gate  Four 
+Ball  One 
+Globe Six 
+Gate  Three  Five 
+Ball  One  Two 
+Globe Finished
+Gate  Three  Four  Five 
+Ball  Finished
+Globe Finished
+Gate  Three  Five 
+Ball  Finished
+Globe Finished
+Gate  Four  Five 
+Ball  One 
+Globe Six 
+Gate  Three 
+Ball  One  Two 
+Globe Six 
+Gate  Four 
+Ball  Two 
+Globe Finished
+Gate  Three 
+Ball  Two 
+Globe Finished
+Gate  Five 
+Ball  Finished
+Globe Finished
+Gate  Three 
+Ball  One 
+Globe Six 
+Gate  Three  Five 
+Ball  Finished
+Globe Six 
+Gate  Four  Five 
+Ball  One  Two 
+Globe Finished
+Gate  Finished
+Ball  One 
+Globe Six 
+Gate  Three 
+Ball  One  Two 
+Globe Finished
+Gate  Five 
+Ball  One  Two 
+Globe Finished
+Gate  Three  Four 
+Ball  One 
+Globe Six 
+Gate  Four 
+Ball  Two 
+Globe Six 
+Gate  Five 
+Ball  One 
+Globe Finished
+Gate  Three 
+Ball  Two 
+Globe Six 
+Gate  Two  Five 
+Ball  Six 
+Globe Finished
+Gate  Two 
+Ball  Six 
+Globe Finished
+Gate  Two 
+Ball  Three 
+Globe Four 
+Gate  Two 
+Ball  Finished
+Globe Finished
+Gate  One  Five 
+Ball  Six 
+Globe Four 
+Gate  Five 
+Ball  Three 
+Globe Finished
+Gate  Two 
+Ball  Three  Six 
+Globe Finished
+Gate  One  Two 
+Ball  Finished
+Globe Finished
+Gate  One  Two  Five 
+Ball  Six 
+Globe Four 
+Gate  Two  Five 
+Ball  Three 
+Globe Finished
+Gate  Five 
+Ball  Three 
+Globe Four 
+Gate  One 
+Ball  Three  Six 
+Globe Finished
+Gate  Finished
+Ball  Six 
+Globe Finished
+Gate  One 
+Ball  Three 
+Globe Finished
+Gate  Five 
+Ball  Six 
+Globe Finished
+Gate  One  Two  Five 
+Ball  Three 
+Globe Finished
+Gate  Finished
+Ball  Finished
+Globe Four 
+Gate  Two  Five 
+Ball  Six 
+Globe Four 
+Gate  One  Five 
+Ball  Finished
+Globe Four 
+Gate  One 
+Ball  Six 
+Globe Finished
+Gate  Five 
+Ball  Finished
+Globe Finished
+Gate  One  Five 
+Ball  Three  Six 
+Globe Four 
+Gate  One  Two 
+Ball  Three 
+Globe Finished
+Gate  One  Five 
+Ball  Six 
+Globe Finished
+Gate  One 
+Ball  Six 
+Globe Four 
+Gate  One  Two 
+Ball  Three  Six 
+Globe Finished
+Gate  Finished
+Ball  Six 
+Globe Four 
+Gate  Two  Five 
+Ball  Three 
+Globe Four 
+Gate  Two  Five 
+Ball  Three  Six 
+Globe Finished
+Gate  One  Five 
+Ball  Three 
+Globe Finished
+Gate  Two 
+Ball  Three  Six 
+Globe Four 
+Gate  Five 
+Ball  Three  Six 
+Globe Finished
+Gate  One  Two 
+Ball  Three  Six 
+Globe Four 
+Gate  Finished
+Ball  Three  Six 
+Globe Finished
+Gate  One  Two  Five 
+Ball  Finished
+Globe Finished
+Gate  Five 
+Ball  Finished
+Globe Four 
+Gate  One 
+Ball  Finished
+Globe Finished
+Gate  Two  Five 
+Ball  Three  Six 
+Globe Four 
+Gate  Finished
+Ball  Three 
+Globe Four 
+Gate  One  Five 
+Ball  Finished
+Globe Finished
+Gate  Finished
+Ball  Three  Six 
+Globe Four 
+Gate  One  Two 
+Ball  Finished
+Globe Four 
+Gate  One  Two  Five 
+Ball  Three 
+Globe Four 
+Gate  One  Two  Five 
+Ball  Finished
+Globe Four 
+Gate  Five 
+Ball  Six 
+Globe Four 
+Gate  Two  Five 
+Ball  Finished
+Globe Four 
+Gate  One  Five 
+Ball  Three 
+Globe Four 
+Gate  One  Two  Five 
+Ball  Three  Six 
+Globe Finished
+Gate  One 
+Ball  Finished
+Globe Four 
+Gate  One  Two 
+Ball  Six 
+Globe Finished
+Gate  Two 
+Ball  Six 
+Globe Four 
+Gate  One  Two  Five 
+Ball  Six 
+Globe Finished
+Gate  Two 
+Ball  Three 
+Globe Finished
+Gate  One 
+Ball  Three 
+Globe Four 
+Gate  One 
+Ball  Three  Six 
+Globe Four 
+Gate  Finished
+Ball  Three 
+Globe Finished
+Gate  One  Two 
+Ball  Three 
+Globe Four 
+Gate  Two  Five 
+Ball  Finished
+Globe Finished
+Gate  Five 
+Ball  Three  Six 
+Globe Four 
+Gate  One  Five 
+Ball  Three  Six 
+Globe Finished
+Gate  One  Two 
+Ball  Six 
+Globe Four 
+Gate  Two 
+Ball  Finished
+Globe Four 

@@ -1,0 +1,186 @@
+Globe One 
+Globe One 
+Gate  Three  Six 
+Gate  Two  Six 
+Globe One 
+Globe One 
+Gate  Two  Three  Six 
+Ball  Five 
+Ball  Four  Five 
+Gate  Two  Three 
+Gate  Two  Three 
+Globe One 
+Globe One 
+Globe One 
+Globe One 
+Gate  Two  Six 
+Globe One 
+Globe One 
+Globe One 
+Gate  Three  Six 
+Globe One 
+Globe One 
+Gate  Three 
+Globe One 
+Gate  Two  Three 
+Gate  Two  Three 
+Globe One 
+Globe One 
+Globe One 
+Ball  Four 
+Globe One 
+Gate  Two  Three  Six 
+Gate  Two 
+Globe One 
+Globe One 
+Globe One 
+Gate  Three 
+Globe One 
+Ball  Four 
+Globe One 
+Gate  Two  Three  Six 
+Globe One 
+Globe One 
+Ball  Four  Five 
+Globe One 
+Gate  Two 
+Ball  Five 
+Gate  Three  Six 
+Globe One 
+Gate  Two 
+Gate  Two  Six 
+Globe One 
+Globe One 
+Gate  Three  Six 
+Gate  Two  Six 
+Gate  Three 
+Gate  Three 
+Gate  Six 
+Gate  Two 
+Globe One 
+Gate  Two  Three  Six 
+Globe One 
+Ball  Two 
+Ball  One  Two 
+Ball  One  Two 
+Gate  Three 
+Ball  One 
+Ball  Two 
+Gate  Three 
+Ball  One 
+Ball  One  Two 
+Ball  One  Two 
+Ball  One 
+Ball  Two 
+Ball  One  Two 
+Gate  Four  Five 
+Ball  Two 
+Ball  One  Two 
+Ball  One 
+Ball  One 
+Ball  One  Two 
+Gate  Three  Four 
+Ball  One  Two 
+Ball  Two 
+Globe Six 
+Ball  Two 
+Ball  Two 
+Ball  One 
+Ball  One 
+Ball  One  Two 
+Ball  One  Two 
+Gate  Three  Four  Five 
+Gate  Three  Five 
+Ball  Two 
+Ball  One 
+Ball  One 
+Gate  Five 
+Gate  Four 
+Ball  One 
+Ball  Two 
+Ball  One 
+Ball  One  Two 
+Ball  Two 
+Gate  Three  Four  Five 
+Ball  One 
+Ball  One 
+Ball  Two 
+Ball  One  Two 
+Ball  Two 
+Gate  Four 
+Gate  Five 
+Ball  Two 
+Ball  One 
+Ball  One  Two 
+Ball  One 
+Ball  Two 
+Ball  Two 
+Ball  One  Two 
+Ball  One 
+Gate  Four  Five 
+Ball  Two 
+Ball  One  Two 
+Gate  Three  Four 
+Gate  Three  Five 
+Ball  Three 
+Gate  One  Two 
+Gate  One  Five 
+Gate  One 
+Ball  Three  Six 
+Gate  One 
+Gate  One  Two 
+Globe Four 
+Gate  One  Five 
+Gate  One  Five 
+Gate  One  Two 
+Ball  Three 
+Gate  One 
+Gate  One  Five 
+Gate  Two  Five 
+Gate  Two 
+Gate  One  Two  Five 
+Gate  One  Two  Five 
+Gate  One  Two 
+Ball  Six 
+Gate  One 
+Gate  One  Two 
+Globe Four 
+Gate  One 
+Gate  One  Two  Five 
+Gate  One 
+Gate  Two  Five 
+Gate  Two  Five 
+Ball  Three  Six 
+Gate  Two  Five 
+Gate  Two 
+Gate  Two 
+Gate  Two 
+Gate  Two 
+Gate  Two 
+Gate  Two 
+Gate  Two 
+Ball  Three 
+Gate  Two  Five 
+Globe Four 
+Gate  One  Two  Five 
+Globe Four 
+Gate  One  Two 
+Gate  One  Five 
+Ball  Three 
+Gate  Five 
+Gate  One  Two 
+Gate  One  Two 
+Gate  One  Five 
+Gate  One  Two  Five 
+Gate  Two  Five 
+Gate  One 
+Gate  Two  Five 
+Ball  Three  Six 
+Gate  Five 
+Gate  One  Two  Five 
+Gate  One  Five 
+Ball  Three  Six 
+Gate  Two  Five 
+Gate  One  Two  Five 
+Gate  One 
+Gate  One  Five
